@@ -1,0 +1,3 @@
+# SVG simplify tool
+
+Enjoy!
