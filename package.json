@@ -1,7 +1,7 @@
 {
   "name": "svg-simplify",
   "description": "SVG simplify tool",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "url": "git://github.com/icons8/svg-simplify.git"
   },
