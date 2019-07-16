@@ -1,5 +1,5 @@
 var
-  should = require('should-promised'),
+  should = require('should'),
   Simplify = require('..')
   ;
 
